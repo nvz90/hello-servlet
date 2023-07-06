@@ -1,7 +1,5 @@
 package hello.servlet.web.frontcontroller;
 
-import org.springframework.ui.Model;
-
 import java.util.HashMap;
 import java.util.Map;
 
